@@ -10,3 +10,7 @@ int main(void) {
   printf("Decimal Form is: %d",number);
   
 }
+
+// octal %o
+// hexadecimal %x
+// decimal %d
